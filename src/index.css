@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+ align-items: center;
+  background: url("./assets/bg.jpg");
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-family: "Open Sans", serif;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}

@@ -1,0 +1,25 @@
+export const wordsList = {
+  Frutas: ["Maçã", "Banana", "Uva", "Laranja", "Pera", "Melancia"],
+  Animais: ["Cachorro", "Gato", "Leão", "Tigre", "Elefante", "Cavalo"],
+  Cores: ["Vermelho", "Azul", "Verde", "Amarelo", "Roxo", "Laranja"],
+  Países: ["Brasil", "EUA", "França", "Alemanha", "Japão", "Canadá"],
+  Esportes: ["Futebol", "Basquete", "Tênis", "Vôlei", "Natação", "Atletismo"],
+  Profissões: [
+    "Médico",
+    "Engenheiro",
+    "Professor",
+    "Advogado",
+    "Designer",
+    "Arquiteto",
+  ],
+  Tecnologia: [
+    "Computador",
+    "Internet",
+    "Software",
+    "Código",
+    "Robótica",
+    "IA",
+  ],
+  Objetos: ["Mesa", "Cadeira", "Celular", "Relógio", "Lâmpada", "Livro"],
+  "Partes do Corpo": ["Cabeça", "Braço", "Perna", "Olho", "Mão", "Pé"],
+};
