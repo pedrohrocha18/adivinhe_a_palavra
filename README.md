@@ -16,8 +16,8 @@ Certifique-se de ter o Node.js instalado na sua máquina.
 
 ## Instalação
 
-1. Clone este repositório: `git clone https://github.com/pedrohrocha18/mks-desafio.git`
-2. Navegue até o diretório do projeto: `cd mks-desafio`
+1. Clone este repositório: `git clone https://github.com/pedrohrocha18/adivinhe_a_palavra.git`
+2. Navegue até o diretório do projeto: `cd adivinhe_a_palavra`
 3. Instale as dependências: `npm install`
 
 
